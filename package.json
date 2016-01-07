@@ -1,0 +1,16 @@
+{
+  "name": "stream-pipe-until-token",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "stream-buffers": "^3.0.0"
+  },
+  "dependencies": {
+    "buffers": "^0.1.1"
+  }
+}
